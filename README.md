@@ -13,3 +13,7 @@ Assuming you are using a Linux shell, issue the following from the root director
 export FLASK_APP=app.py
 flask run
 ```
+
+Then visit:
+[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+
