@@ -17,3 +17,4 @@ flask run
 Then visit:
 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
+![Screenshot](https://raw.githubusercontent.com/truehand/flask-frontend-azure-cognitive-apis/main/Screenshot.png)
